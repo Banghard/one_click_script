@@ -49,13 +49,13 @@ bash <(curl -Lso- https://git.io/oneclick)
 ####  via curl to install script
 
 ```bash
-curl -O https://raw.githubusercontent.com/jinwyp/one_click_script/master/trojan_v2ray_install.sh && chmod +x ./trojan_v2ray_install.sh && ./trojan_v2ray_install.sh
+curl -O https://raw.githubusercontent.com/Banghard/one_click_script/master/trojan_v2ray_install.sh && chmod +x ./trojan_v2ray_install.sh && ./trojan_v2ray_install.sh
 ```
 
 #### via wget to install script
 
 ```bash
-wget --no-check-certificate https://raw.githubusercontent.com/jinwyp/one_click_script/master/trojan_v2ray_install.sh && chmod +x ./trojan_v2ray_install.sh && ./trojan_v2ray_install.sh
+wget --no-check-certificate https://raw.githubusercontent.com/Banghard/one_click_script/master/trojan_v2ray_install.sh && chmod +x ./trojan_v2ray_install.sh && ./trojan_v2ray_install.sh
 ```
 
 
@@ -75,7 +75,7 @@ wget --no-check-certificate https://raw.githubusercontent.com/jinwyp/one_click_s
 #### via wget to install script
 
 ```bash
-wget --no-check-certificate https://raw.githubusercontent.com/jinwyp/one_click_script/master/netflix_check.sh && chmod +x ./netflix_check.sh && ./netflix_check.sh
+wget --no-check-certificate https://raw.githubusercontent.com/Banghard/one_click_script/master/netflix_check.sh && chmod +x ./netflix_check.sh && ./netflix_check.sh
 ```
 
 
